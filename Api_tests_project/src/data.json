@@ -1,0 +1,23 @@
+{
+  "balance": 9999,
+  "barcode": "7622210911111111",
+  "categoryIds": [
+  30
+  ],
+  "departmentIds": [
+  5
+  ],
+  "description": "test",
+  "guid": "0x0000000000000",
+  "hidden": false,
+  "id": 300704,
+  "limit": 0,
+  "limitation": false,
+  "measureId": 1,
+  "name": "testing_product_7",
+  "price": 300,
+  "productMinimalQuantity": 0,
+  "saleStatus": true,
+  "shortDescription": "test",
+  "testingProduct": "null"
+}
